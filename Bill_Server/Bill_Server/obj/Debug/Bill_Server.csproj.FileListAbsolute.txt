@@ -1,7 +1,0 @@
-C:\Users\Administrator\source\repos\Bill_Server\Bill_Server\bin\Debug\Bill_Server.exe.config
-C:\Users\Administrator\source\repos\Bill_Server\Bill_Server\bin\Debug\Bill_Server.exe
-C:\Users\Administrator\source\repos\Bill_Server\Bill_Server\bin\Debug\Bill_Server.pdb
-C:\Users\Administrator\source\repos\Bill_Server\Bill_Server\obj\Debug\Bill_Server.csprojAssemblyReference.cache
-C:\Users\Administrator\source\repos\Bill_Server\Bill_Server\obj\Debug\Bill_Server.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\source\repos\Bill_Server\Bill_Server\obj\Debug\Bill_Server.exe
-C:\Users\Administrator\source\repos\Bill_Server\Bill_Server\obj\Debug\Bill_Server.pdb
