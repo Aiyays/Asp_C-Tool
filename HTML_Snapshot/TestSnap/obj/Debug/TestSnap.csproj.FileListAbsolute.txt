@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\bin\Debug\TestSnap.exe
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\bin\Debug\TestSnap.pdb
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\bin\Debug\SnapLibrary.dll
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\bin\Debug\SnapLibrary.pdb
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\obj\Debug\TestSnap.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\obj\Debug\TestSnap.Form1.resources
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\obj\Debug\TestSnap.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\obj\Debug\TestSnap.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\obj\Debug\TestSnap.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\obj\Debug\TestSnap.exe
+C:\Users\Administrator\Desktop\ceshi1\TestSnap\obj\Debug\TestSnap.pdb

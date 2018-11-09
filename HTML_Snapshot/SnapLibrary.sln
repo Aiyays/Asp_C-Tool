@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapLibrary", "SnapLibrary\SnapLibrary.csproj", "{2A7112CB-9A90-4E88-B08A-08326713FE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSnap", "TestSnap\TestSnap.csproj", "{7DB1F4EE-7A48-4E31-A62C-E5241F8FB03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7112CB-9A90-4E88-B08A-08326713FE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7112CB-9A90-4E88-B08A-08326713FE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7112CB-9A90-4E88-B08A-08326713FE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7112CB-9A90-4E88-B08A-08326713FE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB1F4EE-7A48-4E31-A62C-E5241F8FB03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB1F4EE-7A48-4E31-A62C-E5241F8FB03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB1F4EE-7A48-4E31-A62C-E5241F8FB03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB1F4EE-7A48-4E31-A62C-E5241F8FB03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B998E6A-71AE-443F-BB55-119EF05C3774}
+	EndGlobalSection
+EndGlobal

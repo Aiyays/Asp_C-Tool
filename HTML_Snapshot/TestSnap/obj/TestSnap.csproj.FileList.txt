@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\TestSnap.exe
+bin\Debug\TestSnap.pdb
+bin\Debug\SnapLibrary.dll
+bin\Debug\SnapLibrary.pdb
+obj\Debug\TestSnap.exe
+obj\Debug\TestSnap.pdb
+obj\Debug\TestSnap.Form1.resources
+obj\Debug\TestSnap.csproj.GenerateResource.Cache

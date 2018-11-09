@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\ceshi1\SnapLibrary\bin\Debug\SnapLibrary.dll
+C:\Users\Administrator\Desktop\ceshi1\SnapLibrary\bin\Debug\SnapLibrary.pdb
+C:\Users\Administrator\Desktop\ceshi1\SnapLibrary\obj\Debug\SnapLibrary.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ceshi1\SnapLibrary\obj\Debug\SnapLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ceshi1\SnapLibrary\obj\Debug\SnapLibrary.dll
+C:\Users\Administrator\Desktop\ceshi1\SnapLibrary\obj\Debug\SnapLibrary.pdb
